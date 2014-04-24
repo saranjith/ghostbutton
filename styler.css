@@ -2,15 +2,15 @@
   font-family: "Arial";
   display: inline-block;
   text-decoration: none;
-  border: 1px solid #34495e;
+  border: 1px solid #2ecc71;
   height: 36px;
   line-height: 36px;
-  color: #34495e;
+  color: #2ecc71;
   -webkit-border-radius: 5px;
   -webkit-background-clip: padding-box;
   -moz-border-radius: 5px;
   -moz-background-clip: padding;
-  border-radius: 12px;
+  border-radius: 5px;
   background-clip: padding-box;
   font-size: 1em;
   padding: .5em 1.5em;
@@ -32,7 +32,7 @@
   -moz-transition: 0.2s ease;
   -o-transition: 0.2s ease;
   transition: 0.2s ease;
-  background-color: #34495e;
+  background-color: #2ecc71;
   color: #ffffff;
 }
 .ghost-btn:focus {
